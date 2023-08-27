@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">API</string>
+
+    <string name="ek_img_content" translatable="false">ExportKit Image</string>
+    <string name="vaulter_voice_string">VAULTER VOICE</string>
+    <string name="voice_banking_app_string" translatable="false">Voice Banking App</string>
+
+    <string name="english_string" translatable="false">ENGLISH</string>
+    <string name="_______string" translatable="false" />
+    <string name="select_language_ek3_string" translatable="false"><u>SELECT LANGUAGE </u></string>
+    <string name="check_balance">Check \nbalance</string>
+    <string name="remove_n_user">Remove \n user</string>
+    <string name="profie">Profie</string>
+    <string name="hi_nick_name">HI, Nick Name</string>
+
+    <string name="your_balance_is">Your Balance is :</string>
+    <string name="pay_by_name_or_phone_number">pay by name or phone number</string>
+    <string name="amount">Amount</string>
+    <string name="sender_s_nick_name">Sender’s Nick name</string>
+    <string name="receiver_s_nick_name">Receiver’s Nick name</string>
+
+    <string name="transfer">Transfer</string>
+    <string name="request" translatable="false">Request</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="would_you_like_to_delete_account">Would you like to delete account ?</string>
+    <string name="remove_account">Remove Account</string>
+    <string name="profile">PROFILE</string>
+    <string name="full_name">Full Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="username">Username</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="pin">Enter pin</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="selectlang" translatable="false">Select language</string>
+    <string name="english" translatable="false">ENGLISH</string>
+    <string name="tamil">தமிழ்</string>
+
+
+
+
+
+    <string name="selectlanguage" translatable="false"></string>
+    <string name="vaulter_voice">Vaulter Voice</string>
+    <string name="user_nickname">Nickname</string>
+    <string name="pin_number">PIN Number</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="register">REGISTER</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="transfer_n_money">Transfer \n money</string>
+    <string name="request_n_money">Request \n money</string>
+    <string name="transaction_n_history">Transaction \n history</string>
+    <string name="transactions">Transactions</string>
+</resources>

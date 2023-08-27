@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">API</string>
+    <string name="vaulter_voice_string">வால்டர் வாய்ஸ்</string>
+    <string name="check_balance">பண \n இருப்பு</string>
+    <string name="remove_n_user">"பயனரை \n அகற்று "</string>
+    <string name="profie">சுயவிவரம்</string>
+    <string name="hi_nick_name">வணக்கம்,புனைபெயர்</string>
+    <string name="your_balance_is">உங்களது பண இருப்பு</string>
+    <string name="pay_by_name_or_phone_number">பெயர் அல்லது தொலைபேசி எண்</string>
+    <string name="amount">தொகை</string>
+    <string name="sender_s_nick_name">அனுப்புனர் பெயர்</string>
+    <string name="receiver_s_nick_name">பெறுநர்களின் புனைப்பெயர்</string>
+    <string name="transfer">பரிமாற்றம்</string>
+    <string name="delete_account">கணக்கு நீக்கம்</string>
+    <string name="would_you_like_to_delete_account">கணக்கை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="remove_account">பயனரை அகற்று</string>
+    <string name="profile">சுயவிவரம்</string>
+    <string name="full_name">முழு பெயர்</string>
+    <string name="nickname">புனைப்பெயர்</string>
+    <string name="username">பயனர் பெயர்</string>
+    <string name="mobile_number">கைபேசி எண்</string>
+    <string name="pin">பின் எண்</string>
+    <string name="upi_id">யூபிஐ ஐடி</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="vaulter_voice">வால்டர் வாய்ஸ்</string>
+    <string name="user_nickname">பயனர் பெயர்</string>
+    <string name="pin_number">ஆறு  இலக்க பின் எண்</string>
+    <string name="login">உள்நுழைய</string>
+    <string name="or">அல்லது</string>
+    <string name="register">பதிவுசை</string>
+    <string name="transfer_n_money">பணம் \n அனுப்பு</string>
+    <string name="request_n_money">பணம் \nக ேட்க</string>
+    <string name="transaction_n_history">பரிவர்த்தனை \n வரலாறு</string>
+    <string name="transactions">பரிவர்த்தனைகள்</string>
+</resources>

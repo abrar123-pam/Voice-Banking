@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="75dp"
+    android:layout_marginBottom="15dp"
+    android:background="@drawable/rectangle_25_shape">
+
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="#D61313"
+        android:hint="AMOUNT" />
+
+     <TextView
+         android:id="@+id/nicnametransaction"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/nickname"
+         android:layout_toRightOf="@+id/amount"
+         android:fontFamily="@font/poppinsmedium"
+         android:textColor="@color/black"
+         android:textStyle="bold"
+         android:layout_marginTop="10dp"
+         android:layout_marginStart="70dp"
+         android:textSize="15sp"/>
+
+     <TextView
+         android:id="@+id/time"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="TIME"
+         android:layout_toRightOf="@+id/amount"
+         android:layout_marginStart="20dp"
+         android:layout_marginTop="40dp"
+         android:fontFamily="@font/poppinsmedium"
+         android:textColor="@color/black"
+         android:textStyle="bold"
+         android:textSize="10sp"/>
+
+
+     <TextView
+         android:id="@+id/date"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="DATE"
+         android:fontFamily="@font/poppinsmedium"
+         android:textColor="@color/black"
+         android:textStyle="bold"
+         android:layout_toRightOf="@+id/amount"
+         android:layout_marginStart="140dp"
+         android:layout_marginTop="40dp"
+         android:textSize="10sp"/>
+
+
+</RelativeLayout>

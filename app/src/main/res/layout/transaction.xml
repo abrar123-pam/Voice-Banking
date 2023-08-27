@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context=".Transaction">
+
+    <LinearLayout
+        android:id="@+id/translayout"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/profile">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppinsmedium"
+            android:letterSpacing="0.1"
+            android:text="@string/transactions"
+            android:textColor="@color/white"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/translayout"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/gray">
+    </androidx.recyclerview.widget.RecyclerView>
+</RelativeLayout>
